@@ -1,1 +1,1 @@
-# imageslider
+# Image-slider
